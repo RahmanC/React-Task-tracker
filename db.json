@@ -1,16 +1,3 @@
 {
-  "tasks": [
-    {
-      "text": "CCAT",
-      "day": "mon-thur, 9:00AM",
-      "reminder": false,
-      "id": 1
-    },
-    {
-      "text": "MEETUP",
-      "day": "Friday, 9:30AM",
-      "reminder": true,
-      "id": 2
-    }
-  ]
+  "tasks": []
 }
