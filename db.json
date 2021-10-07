@@ -1,3 +1,10 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "text": "ccat",
+      "day": "mon-thur, 9:00am",
+      "reminder": true,
+      "id": 2
+    }
+  ]
 }
